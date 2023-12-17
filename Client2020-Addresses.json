@@ -2,6 +2,7 @@
   "Deserializer": "0x00",
   "NewThread": "0x013DEFC0",
   "Spawn": "0x00",
+  "Pcall": "0x00",
   "Pushlstring": "0x013DEB70",
   "GetField": "0x013DDFA0",
   "SetField": "0x013DEB70",
