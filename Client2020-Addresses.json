@@ -1,1 +1,8 @@
-{ }
+{
+  "Deserializer": "0x00",
+  "NewThread": "0x00",
+  "Spawn": "0x00",
+  "Pushlstring": "0x00",
+  "GetField": "0x00",
+  "SetField": "0x00",
+}
