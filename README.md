@@ -10,3 +10,4 @@ Syntax is a ROBLOX revival meant for Windows and other operating systems, it cur
 We are currently trying to support more and more ROBLOX client's + version's for Revivals allowing "Execution" of scripts on the ROBLOX Revivals
 
 ## Updates
+* ### Currently None...
